@@ -8,9 +8,9 @@
     "text": "Milos Resimic"
   },
   "text": {
-    "more": "Network is based on  16,979 tweets containing hashtag #1od5miliona. The edges exist between two users if one retweets another user\u0027s tweet. Nodes are colored based on community that they belong to: yellowish are pro-govt and blueish are pro-govt. The overall network has 5,903 nodes and 14,126 edges. Strong polarization visible. Anti-govt community is twice the size of pro-govt one. Opposition block took over in diffusion of information. The anti-govt community is the most diverse so far.",
+    "more": "Network is based on the last  16,979 tweets containing hashtag #1od5miliona posted until 18:18 on April 13. The edges exist between two users if one retweets another user\u0027s tweet. Nodes are colored based on community that they belong to: yellowish are pro-govt and blueish are anti-govt. The overall network has 5,903 nodes and 14,126 edges. Strong polarization visible. Anti-govt community is twice the size of pro-govt one. Opposition block took over in diffusion of information. The anti-govt community is the most diverse so far.",
     "intro": " ",
-    "title": "Anti-government protests - #1od5miliona"
+    "title": "Anti-government protests in Serbia - #1od5miliona"
   },
   "legend": {
     "edgeLabel": " retweet",
