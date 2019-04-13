@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "",
+    "text": "Milos Resimic"
+  },
+  "text": {
+    "more": "Network is based on  16,979 tweets containing hashtag #1od5miliona. The edges exist between two users if one retweets another user\u0027s tweet. Nodes are colored based on community that they belong to: yellowish are pro-govt and blueish are pro-govt. The overall network has 5,903 nodes and 14,126 edges. Strong polarization visible. Anti-govt community is twice the size of pro-govt one. Opposition block took over in diffusion of information. The anti-govt community is the most diverse so far.",
+    "intro": " ",
+    "title": "Anti-government protests - #1od5miliona"
+  },
+  "legend": {
+    "edgeLabel": " retweet",
+    "colorLabel": "Modularity class",
+    "nodeLabel": "Twitter user"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "Label",
+    "hoverBehavior": "dim"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
